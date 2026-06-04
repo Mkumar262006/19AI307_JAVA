@@ -24,8 +24,8 @@ To implement a Wrapper Class (`Integer`) in Java and determine whether the given
 ```java
 /*
 Program to implement a Wrapper Class using Java
-Developed by: Vikamuhan Reddy
-RegisterNumber: 212223240181
+Developed by: Manoj kumar S
+RegisterNumber: 212223240082
 */
 ```
 
