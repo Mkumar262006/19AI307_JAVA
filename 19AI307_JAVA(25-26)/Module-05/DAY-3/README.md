@@ -25,8 +25,8 @@ To write a Java program that reads a text file and counts the number of words pr
  ```
 /*
 Program to implement a File Handling using Java
-Developed by: Vikamuhan Reddy
-RegisterNumber:  212223240181
+Developed by: Manoj kumar S
+RegisterNumber:  212223240082
 */
 ```
 
