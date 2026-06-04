@@ -29,8 +29,8 @@ To write a Java program that reads a string from the user, compresses it using G
  ```
 /*
 Program to implement a Serialization and Deserialization using Java
-Developed by: Vikamuhan Reddy
-RegisterNumber:  212223240181
+Developed by: Manoj kumar S
+RegisterNumber:  212223240082
 */
 ```
 
